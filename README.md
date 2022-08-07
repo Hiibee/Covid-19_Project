@@ -18,35 +18,35 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 •	Perform exploratory data analysis 
  
 
-![alt text](https://raw.githubusercontent.com/Hiibee/Covid-19_Project/2cd3b3b9f398a6a4fbb2f65f0109b2942e6c9278/images/1.png)
+![](https://raw.githubusercontent.com/Hiibee/Covid-19_Project/2cd3b3b9f398a6a4fbb2f65f0109b2942e6c9278/images/1.png)
 
 
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/2.png)
+![](/images/2.png)
 
 
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/3.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/3.png)
 
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/4.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/4.png)
 
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/5.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/5.png)
 
 
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/6.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/6.png)
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/7.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/7.png)
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/8.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/8.png)
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/9.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/9.png)
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/10.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/10.png)
 
-![alt text](https://github.com/Hiibee/Covid-19_Project/blob/main/images/11.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/11.png)
 
 
 

@@ -26,31 +26,31 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 
 
 
-![](images/3.png)
+![](/images/3.png)
 
 
-![](images/4.png)
+![](/images/4.png)
 
 
-![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/5.png)
+![](/images/5.png)
 
 
 
-![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/6.png)
+![](/images/6.png)
 
-![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/7.png)
+![](/images/7.png)
 
-![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/8.png)
+![](/images/8.png)
 
-![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/9.png)
+![](/images/9.png)
 
-![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/10.png)
+![](/images/10.png)
 
-![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/11.png)
+![](/images/11.png)
 
 
 
 ### About me
-![](images/pass.png)
+![](/images/pass.png)
 
 My name is Ibrahim Saka and I am a certified Google data analyst. I’m a freelance data analyst with over 2 years of experience. I’m passionate about helping businesses and industries to succeed. Also, I’m a firm believer in using data to address humanitarian issues and make the world better.

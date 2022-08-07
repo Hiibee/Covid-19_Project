@@ -22,7 +22,7 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 
 
 
-![](/images/2.png)
+![](https://github.com/Hiibee/Covid-19_Project/blob/main/images/2.png)
 
 
 

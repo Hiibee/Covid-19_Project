@@ -18,7 +18,7 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 •	Perform exploratory data analysis 
  
 
-
+![alt text](https://raw.githubusercontent.com/Hiibee/Covid-19_Project/2cd3b3b9f398a6a4fbb2f65f0109b2942e6c9278/images/1.png)
 
 
 

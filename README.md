@@ -7,7 +7,7 @@ Covid-19 virus did not match any other known virus thus it raised concern; so da
 
 ### Project overview: 
 The dataset contains 321 rows with 6 columns or fields which include: date, state, region, confirmed case, deaths case and recovered case.
-#### steps  taken 
+#### Steps  taken 
 • Imported libraries and the dataset
 
 •	read in data; take a glimpse at few rows

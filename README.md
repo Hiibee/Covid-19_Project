@@ -55,4 +55,5 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 
 ![](/images/pass.png)
 
-My name is Ibrahim Saka and I'm a certified Google data analyst. I’m passionate about helping businesses and industries to succeed. Also, I’m a firm believer in using data to address humanitarian issues and make the world better.
+My name is Ibrahim Saka and I'm a certified Google data analyst. I’m passionate about helping businesses and industries to succeed.
+Highly recommended for problem solving and solution driven analysis. 
